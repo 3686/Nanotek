@@ -1,0 +1,8 @@
+c:\Projects\Nanotek\ConsoleApp\bin\Release\ConsoleApp.exe
+c:\Projects\Nanotek\ConsoleApp\bin\Release\ConsoleApp.pdb
+c:\Projects\Nanotek\ConsoleApp\bin\Release\ConsoleApp.xml
+c:\Projects\Nanotek\ConsoleApp\obj\Release\ConsoleApp.Resources.resources
+c:\Projects\Nanotek\ConsoleApp\obj\Release\ConsoleApp.vbproj.GenerateResource.Cache
+c:\Projects\Nanotek\ConsoleApp\obj\Release\ConsoleApp.exe
+c:\Projects\Nanotek\ConsoleApp\obj\Release\ConsoleApp.xml
+c:\Projects\Nanotek\ConsoleApp\obj\Release\ConsoleApp.pdb
